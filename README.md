@@ -56,6 +56,9 @@ attacks.
 ![Number of Attacks by Region2](https://github.com/user-attachments/assets/d10489a4-aa85-4791-94ba-32aed817aeeb)
 
 
+<iframe src="https://github.com/MahmoudHassanen99/Global-Terrorism-Dataset-Analysis/blob/main/Interactive%20Plots/Number%20of%20Attacks%20by%20Region.html" width="800" height="600"></iframe>
+
+
 #### Correlation Heatmap: A heatmap was generated to visualize the correlation between different 
 features.
 - Identified significant correlations between variables.
