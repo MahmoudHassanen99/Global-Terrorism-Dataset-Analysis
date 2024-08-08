@@ -7,10 +7,10 @@ patterns, and insights related to global terrorism. The analysis includes data a
 preprocessing, statistical analysis, visualization, and performance comparison between Pandas and Dask.
 
 ## 2. Data Acquisition and Preprocessing
-• Dataset Loading: The GTD dataset was loaded into a Pandas DataFrame for analysis.
-• Exploration: Initial exploration revealed the structure and features of the dataset, including 
+- Dataset Loading: The GTD dataset was loaded into a Pandas DataFrame for analysis.
+- Exploration: Initial exploration revealed the structure and features of the dataset, including 
 columns such as iyear, region_txt, attacktype1_txt, and nkill.
-• Data Cleaning: Missing values were handled appropriately. For instance, columns with significant 
+- Data Cleaning: Missing values were handled appropriately. For instance, columns with significant 
 missing data were dropped and important columns with less missing values, just missing rows 
 dropped.
 
